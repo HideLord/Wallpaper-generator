@@ -1,0 +1,5 @@
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Data\bin\Debug\Wallpaper.Data.dll
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Data\bin\Debug\Wallpaper.Data.pdb
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Data\obj\Debug\Wallpaper.Data.csprojAssemblyReference.cache
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Data\obj\Debug\Wallpaper.Data.dll
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Data\obj\Debug\Wallpaper.Data.pdb

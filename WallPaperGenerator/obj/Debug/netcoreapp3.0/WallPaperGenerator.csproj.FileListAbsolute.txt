@@ -1,0 +1,17 @@
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\bin\Debug\netcoreapp3.0\WallPaperGenerator.exe
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\bin\Debug\netcoreapp3.0\WallPaperGenerator.deps.json
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\bin\Debug\netcoreapp3.0\WallPaperGenerator.runtimeconfig.json
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\bin\Debug\netcoreapp3.0\WallPaperGenerator.runtimeconfig.dev.json
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\bin\Debug\netcoreapp3.0\WallPaperGenerator.dll
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\bin\Debug\netcoreapp3.0\WallPaperGenerator.pdb
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator.csprojAssemblyReference.cache
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator_MarkupCompile.cache
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator_MarkupCompile.lref
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator.g.resources
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator.AssemblyInfoInputs.cache
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator.AssemblyInfo.cs
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator.dll
+C:\Users\HideLord\source\repos\WallPaperGenerator\WallPaperGenerator\obj\Debug\netcoreapp3.0\WallPaperGenerator.pdb

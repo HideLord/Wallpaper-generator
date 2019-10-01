@@ -1,0 +1,8 @@
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\bin\Debug\Wallpaper.Services.dll
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\bin\Debug\Wallpaper.Services.pdb
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\bin\Debug\Wallpaper.Data.dll
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\bin\Debug\Wallpaper.Data.pdb
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\obj\Debug\Wallpaper.Services.csprojAssemblyReference.cache
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\obj\Debug\Wallpaper.Services.csproj.CopyComplete
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\obj\Debug\Wallpaper.Services.dll
+C:\Users\HideLord\source\repos\WallPaperGenerator\Wallpaper.Services\obj\Debug\Wallpaper.Services.pdb
